@@ -1,0 +1,13 @@
+part I:
+python3 reads_filtration/module_wraper.py output/New_Dataset_Input/EXP_12_Sandra_L1_short.fastq.gz output/New_Dataset_Output/analysis/reads_filtration output/New_Dataset_Output/logs/reads_filtration output/New_Dataset_Input/barcode2samplename.txt AGGCGGCCAACGTGGC GCCGCTGGG 1 38 3 output/New_Dataset_Output/logs/reads_filtration/done.txt
+part II:
+python3 motif_inference/module_wraper.py output/New_Dataset_Output/analysis/reads_filtration output/New_Dataset_Output/analysis/motif_inference output/New_Dataset_Output/logs/motif_inference output/New_Dataset_Input/samples2bc.txt 100 400 1000 100 0.5 output/New_Dataset_Output/logs/motif_inference/done.txt
+part III:
+python3 model_fitting/module_wraper.py output/exp12_complete_run/analysis/reads_filtration output/exp12_complete_run/analysis/motif_inference output/exp12_complete_run/analysis/model_fitting output/exp12_complete_run/logs/model_fitting mock_data/samplename2biologicalcondition.txt 10 output/exp12_complete_run/logs/model_fitting/done.txt
+
+part III (cross experiment):
+--> same as normal part III, just uses reads filtration from one experiment and motifs from another experiment; generated .csv file which is used as input for predict.py
+python3 model_fitting/module_wraper.py output/Old_Dataset_output/analysis/reads_filtration output/New_Dataset_Output/analysis/motif_inference output/New_Dataset_Output/analysis/model_fitting_new_motifs_old_peptides output/New_Dataset_Output/logs/model_fitting_new_motifs_old_peptides output/New_Dataset_Input/samples2bc_new_motifs_old_peptides.txt 40 output/New_Dataset_Output/analysis/model_fitting_new_motifs_old_peptides/done.txt
+
+predict.py:
+python3 predict/predict.py output/New_Dataset_Output/analysis/model_fitting/Ethiopia/Ethiopia_values_model/best_model/Top_25_features_model.pkl output/New_Dataset_Output/analysis/model_fitting/Ethiopia/Ethiopia_values.csv

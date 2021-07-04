@@ -1,0 +1,420 @@
+Entry ID,Family,Genus,Title,Resolution,Genome,T,Subunits,Inner Radius,Outer Radius,Average Radius,Net Surface Charge,Outside SASA
+1vsz,Adenoviridae,Mastadenovirus,CRYSTAL STRUCTURE OF HUMAN ADENOVIRUS AT 3.5A,3.5,dsDNA,pT25,780,316,488,458,0,0
+1x9p,Adenoviridae,Mastadenovirus,The crystal structure of human adenovirus 2 penton base,3.3,"dsDNA viruses, no RNA stage",1,60,43,145,138,540,880548
+1x9t,Adenoviridae,Mastadenovirus,The crystal structure of human adenovirus 2 penton base in complex with an ad2 N-terminal fibre peptide,3.5,"dsDNA viruses, no RNA stage",1,60,44,137,137,540,774864
+2bld,Adenoviridae,Mastadenovirus,THE QUASI-ATOMIC MODEL OF HUMAN ADENOVIRUS TYPE 5 CAPSID (PART 2),MODEL,"dsDNA viruses, no RNA stage",pT25,780,326,474,455,5100,16954440
+2c6s,Adenoviridae,Mastadenovirus,HUMAN ADENOVIRUS PENTON BASE 2 12 CHIMERA,3.6,dsDNA,1,60,42,138,136,600,766722
+2c9f,Adenoviridae,Mastadenovirus,THE QUASI-ATOMIC MODEL OF THE ADENOVIRUS TYPE 3 PENTON DODECAHEDRON,MODEL,"dsDNA viruses, no RNA stage",1,60,42,135,135,540,754272
+2c9g,Adenoviridae,Mastadenovirus,THE QUASI-ATOMIC MODEL OF THE ADENOVIRUS TYPE 3 PENTON BASE DODECAHEDRON,MODEL,"dsDNA viruses, no RNA stage",1,60,41,142,139,600,830688
+3iyn,Adenoviridae,Mastadenovirus,3.6-Angstrom cryoEM structure of human adenovirus type 5,3.6,dsDNA,pT25,780,311,466,448,0,0
+4aqq,Adenoviridae,Mastadenovirus,DODECAHEDRON FORMED OF PENTON BASE PROTEIN FROM ADENOVIRUS A,4.75,dsDNA,1,60,42,147,146,240,841944
+4ar2,Adenoviridae,Mastadenovirus,DODECAHEDRON FORMED OF PENTON BASE PROTEIN FROM ADENOVIRUS A,3.8,dsDNA,1,60,41,144,139,300,783072
+1wcd,Birnaviridae,Avibirnavirus,CRYSTAL STRUCTURE OF IBDV T1 VIRUS-LIKE PARTICLE REVEALS A MISSING LINK IN ICOSAHEDRAL VIRUSES EVOLUTION,3,dsRNA,1,60,54,136,130,-360,534852
+1wce,Birnaviridae,Avibirnavirus,CRYSTAL STRUCTURE OF THE T13 IBDV VIRAL PARTICLE REVEALS A MISSING LINK IN ICOSAHEDRAL VIRUSES EVOLUTION,7,dsRNA,13,780,252,374,353,0,0
+2df7,Birnaviridae,Avibirnavirus,CRYSTAL STRUCTURE OF INFECTIOUS BURSAL DISEASE VIRUS VP2 SUB PARTICLE,2.6,dsRNA,1,60,55,136,135,-480,537078
+3fbm,Birnaviridae,Avibirnavirus,D431N Mutant VP2 Protein of Infectious Bursal Disease Virus; Derived T=1 Particles,3.1,dsRNA,1,60,47,136,129,-360,582972
+3ide,Birnaviridae,Aquabirnavirus,STRUCTURE OF IPNV SUBVIRAL PARTICLE,3.35,dsRNA,1,60,56,133,132,-180,521256
+1cwp,Bromoviridae,Bromovirus,STRUCTURES OF THE NATIVE AND SWOLLEN FORMS OF COWPEA CHLOROTIC MOTTLE VIRUS DETERMINED BY X-RAY CRYSTALLOGRAPHY AND CRYO-ELECTRON MICROSCOPY,3.2,"ssRNA positive-strand viruses, no DNA stage",3,180,94,144,141,-120,866094
+1f15,Bromoviridae,Cucumovirus,CUCUMBER MOSAIC VIRUS (STRAIN FNY),3.2,"ssRNA positive-strand viruses, no DNA stage",3,180,85,151,149,1560,1173600
+1js9,Bromoviridae,Bromovirus,Brome Mosaic Virus,3.4,"ssRNA positive-strand viruses, no DNA stage",3,180,89,142,141,1020,917520
+1laj,Bromoviridae,Cucumovirus,The Structure of Tomato Aspermy Virus by X-Ray Crystallography,3.4,"ssRNA positive-strand viruses, no DNA stage",3,180,89,150,149,1680,1180140
+1yc6,Bromoviridae,Bromovirus,Crystallographic Structure of the T=1 Particle of Brome Mosaic Virus,2.9,"ssRNA positive-strand viruses, no DNA stage",1,60,53,97,97,180,312480
+1za7,Bromoviridae,Bromovirus,THE CRYSTAL STRUCTURE OF SALT STABLE COWPEA CHOLOROTIC MOTTLE VIRUS AT 2.7 ANGSTROMS RESOLUTION.,2.7,"ssRNA positive-strand viruses, no DNA stage",3,180,93,143,140,-120,843486
+amv,Bromoviridae,Alfamovirus,ALFALFA MOSAIC VIRUS,4,"ssRNA positive-strand viruses, no DNA stage",1,60,57,111,106,180,458748
+ccmv_swln_1,Bromoviridae,Bromovirus,"CCMV, Swollen Form (C)",MODEL,"ssRNA positive-strand viruses, no DNA sta`ge",3,180,118,167,165,-300,1099530
+ccmv_swln_2,Bromoviridae,Bromovirus,"CCMV, Swollen Form (D)",MODEL,"ssRNA positive-strand viruses, no DNA stage",3,180,118,168,165,-180,998802
+1ihm,Caliciviridae,Norovirus,CRYSTAL STRUCTURE ANALYSIS OF NORWALK VIRUS CAPSID,3.4,"ssRNA positive-strand viruses, no DNA stage",3,180,121,200,199,0,2132238
+2gh8,Caliciviridae,Vesivirus,X-ray structure of a native calicivirus,3.2,"ssRNA positive-strand viruses, no DNA stage",3,180,119,208,206,240,2707686
+3j1p,Caliciviridae,Lagovirus,Atomic model of rabbit hemorrhagic disease virus,6.5,ssRNA,3,180,119,219,216,-420,2769846
+3m8l,Caliciviridae,Calicivirus,Crystal Structure Analysis of the Feline Calicivirus Capsid Protein,3.4,ssRNA,3,180,118,208,205,-60,2775090
+3zue,Caliciviridae,Lagovirus,Rabbit Hemorrhagic Disease Virus (RHDV)capsid protein,10.3,ssRNA,3,180,117,212,210,0,0
+3j3i,Chrysoviridae,Chrysovirus,PENICILLIUM CHRYSOGENUM VIRUS (PCV) CAPSID STRUCTURE,4.1,dsRNA,1,60,156,208,200,1380,1690836
+3r0r,Circoviridae,Circovirus,The 2.3 A structure of porcine circovirus 2,2.35,ssDNA,1,60,63,102,99,420,272502
+1a6c,Comoviridae,Nepovirus,STRUCTURE OF TOBACCO RINGSPOT VIRUS,3.5,"ssRNA positive-strand viruses, no DNA stage",pT3,60,105,158,154,840,669252
+1bmv,Comoviridae,Comovirus,PROTEIN-/RNA$ INTERACTIONS IN AN ICOSAHEDRAL VIRUS AT 3.0 ANGSTROMS RESOLUTION,3,ssRNA,pT3,60,102,160,153,240,692256
+1ny7,Comoviridae,Comovirus,COWPEA MOSAIC VIRUS (CPMV),3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,101,159,153,-180,648702
+1pgl,Comoviridae,Comovirus,"BEAN POD MOTTLE VIRUS (BPMV), MIDDLE COMPONENT",2.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,102,160,153,300,656532
+1pgw,Comoviridae,Comovirus,"BEAN POD MOTTLE VIRUS (BPMV), TOP COMPONENT",2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,102,160,153,480,683286
+2bfu,Comoviridae,Comovirus,X-RAY STRUCTURE OF CPMV TOP COMPONENT,4,ssRNA,pT3,60,100,158,151,-180,816684
+2y7t,Comoviridae,Nepovirus,X-RAY STRUCTURE OF THE GRAPEVINE FANLEAF VIRUS,3,ssRNA,pT3,60,110,153,153,300,648204
+rcmv,Comoviridae,Comovirus,Red Clover Mottle Virus,2.4,"ssRNA viruses, no DNA stage",pT3,60,102,155,153,420,640404
+2w0c,Corticoviridae,N/A,X-RAY STRUCTURE OF THE ENTIRE LIPID-CONTAINING BACTERIOPHAGE PM2,7,dsDNA,pT21,0,184,386,304,840,6783750
+4btg,Cystoviridae,Cystovirus,Coordinates of the bacteriophage phi6 capsid subunits (P1A and P1B) fitted into the cryoEM reconstruction of the procapsid at 4.4 A resolution,4.4,dsRNA,13,780,94,228,226,1740,2968104
+4btq,Cystoviridae,Cystovirus,Coordinates of the bacteriophage phi6 capsid subunits fitted into the cryoEM map EMD-1206,7.5,dsRNA,13,780,211,258,252,1680,3460410
+4bx4,Cystoviridae,Cystovirus,Fitting of the bacteriophage Phi8 P1 capsid protein into cryo-EM density,8.7,dsRNA,13,780,213,257,253,-120,2781564
+1b35,Dicistroviridae,Cripavirus,CRICKET PARALYSIS VIRUS (CRPV),2.4,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,167,160,180,1069206
+3nap,Dicistroviridae,Cripavirus,STRUCTURE OF TRIATOMA VIRUS (TRV),2.5,ssRNA,pT3,60,114,168,164,-120,733950
+1k4r,Flaviviridae,Flavivirus,Structure of Dengue Virus,24,"ssRNA positive-strand viruses, no DNA stage",3,180,217,257,252,3000,2095302
+1n6g,Flaviviridae,Flavivirus,The structure of immature Dengue-2 prM particles,MODEL,ssRNA,3,180,198,262,257,1320,1834392
+1na4,Flaviviridae,Flavivirus,The structure of immature Yellow Fever virus particle,MODEL,"ssRNA positive-strand viruses, no DNA stage",3,180,191,272,263,2100,2890158
+1p58,Flaviviridae,Flavivirus,Complex Organization of Dengue Virus Membrane Proteins as Revealed by 9.5 Angstrom Cryo-EM reconstruction,MODEL,"ssRNA positive-strand viruses, no DNA stage",3,180,171,244,240,3060,3440718
+1tge,Flaviviridae,Flavivirus,THE STRUCTURE OF IMMATURE DENGUE VIRUS AT 12.5 ANGSTROM,12.5,ssRNA,3,180,199,262,261,2040,2727852
+1thd,Flaviviridae,Flavivirus,COMPLEX ORGANIZATION OF DENGUE VIRUS E PROTEIN AS REVEALED BY 9.5 ANGSTROM CRYO-EM RECONSTRUCTION,MODEL,"ssRNA positive-strand viruses, no DNA stage",3,180,204,242,237,1740,1978140
+2of6,Flaviviridae,Flavivirus,STRUCTURE OF IMMATURE WEST NILE VIRUS,24,ssRNA,3,180,192,266,265,1200,3213444
+2r6p,Flaviviridae,Flavivirus,Fit of E protein and Fab 1A1D-2 into 24 angstrom resolution cryoEM map of Fab complexed with dengue 2 virus.,24,ssRNA,3,180,175,302,297,2040,3538254
+3c6d,Flaviviridae,Flavivirus,The pseudo-atomic structure of dengue immature virus,12.5,ssRNA,3,180,199,277,276,0,0
+3c6r,Flaviviridae,Flavivirus,Low pH Immature Dengue Virus,25,ssRNA,3,180,201,252,250,0,0
+3iyw,Flaviviridae,Flavivirus,WEST NILE VIRUS IN COMPLEX WITH FAB FRAGMENTS OF MAB CR4354 COORDINATES OF ENVELOPE PROTEINS AND FAB FRAGMENTS OF ONE I ASU),13.7,ssRNA,3,180,198,307,303,3180,4660710
+3j27,Flaviviridae,Flavivirus,CRYOEM STRUCTURE OF DENGUE VIRUS,3.6,ssRNA,3,180,163,235,230,3240,3418734
+3j35,Flaviviridae,Flavivirus,Cryo-EM reconstruction of Dengue virus at 37 C,35,ssRNA,3,180,214,257,255,1080,2262996
+3j42,Flaviviridae,Flavivirus,Obstruction of Dengue Virus Maturation by Fab Fragments of the 2H2 Antibody,21,ssRNA,3,180,192,338,338,2580,5840328
+3zko,Flaviviridae,Flavivirus,The structure of ''breathing'' dengue virus.,13.7,ssRNA,3,180,222,274,269,1320,2123328
+4azx,Flaviviridae,Flavivirus,4.5A Electron cryomicroscopy reconstruction of mature Dengue virus serotype 1,4.5,ssRNA,3,180,166,242,238,2460,3758370
+4b03,Flaviviridae,Flavivirus,6A ELECTRON CRYOMICROSCOPY STRUCTURE OF IMMATURE DENGUE VIRUS SEROTYPE 1,6,ssRNA,3,180,165,281,279,1980,5319480
+1qgt,Hepadnaviridae,Orthohepadnavirus,HUMAN HEPATITIS B VIRAL CAPSID (HBCAG),3.3,dsDNA,4,240,127,175,175,-360,895326
+2g33,Hepadnaviridae,Orthohepadnavirus,"HUMAN HEPATITIS B VIRUS T=4 CAPSID, STRAIN ADYW",3.96,dsDNA,4,240,118,176,175,-720,1326018
+2g34,Hepadnaviridae,Orthohepadnavirus,HUMAN HEPATITIS B VIRUS T=4 CAPSID STRAIN ADYW COMPLEXED WITH ASSEMBLY EFFECTOR HAP1,5.05,dsDNA,4,240,119,178,177,-480,1361946
+2qij,Hepadnaviridae,Orthohepadnavirus,Hepatitis B Capsid Protein with an N-terminal extension modelled into 8.9 A data.,8.9,dsDNA,4,240,127,176,176,-60,982350
+3iyo,Hepadnaviridae,Orthohepadnavirus,Cryo-EM model of virion-sized HEV virion-sized capsid,10.5,dsDNA,3,180,100,206,200,900,4115244
+4g93,Hepadnaviridae,Orthohepadnavirus,"CRYSTAL STRUCTURE OF THE HUMAN HEPATITIS B VIRUS T = 4 CAPSI STRAIN, IN COMPLEX WITH THE PHENYLPROPENAMIDE ASSEMBLY ACCE AT-130",4.2,dsDNA,4,240,126,178,177,-600,1129566
+2ztn,Hepeviridae,Hepevirus,Hepatitis E virus ORF2 (Genotype 3),3.56,dsDNA,1,60,62,139,138,240,722256
+3hag,Hepeviridae,Hepevirus,Crystal structure of the Hepatitis E Virus-like Particle,3.5,dsDNA,1,60,60,138,135,180,739332
+1aq3,Leviviridae,Levivirus,BACTERIOPHAGE MS2 CAPSID PROTEIN/RNA COMPLEX,2.8,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,135,180,546432
+1aq4,Leviviridae,Levivirus,STRUCTURE OF A MS2 COAT PROTEIN MUTANT IN COMPLEX WITH AN RNA OPERATOR,3,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,135,180,547050
+1bms,Leviviridae,Levivirus,CRYSTAL STRUCTURE OF MS2 CAPSIDS WITH MUTATIONS IN THE SUBUNIT FG LOOP,2.7,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,135,180,567912
+1dwn,Leviviridae,Levivirus,STRUCURE OF BACTERIOPHAGE PP7 FROM PSEUDOMONAS AERUGINOSA AT 3.7 A RESOLUTION,3.5,"ssRNA positive-strand viruses, no DNA stage",3,180,108,151,146,540,846840
+1dzs,Leviviridae,Levivirus,MS2-RNA HAIRPIN (4ONE-5) COMPLEX,2.85,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,139,180,552030
+1e7x,Leviviridae,Levivirus,MS2-RNA HAIRPIN (2ONE-5) COMPLEX,2.38,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,135,180,552174
+1fr5,Leviviridae,Levivirus,PHAGE FR CAPSIDS WITH A FOUR RESIDUE DELETION IN THE COAT PROTEIN FG LOOP,3.5,"ssRNA positive-strand viruses, no DNA stage",3,180,105,143,138,240,577332
+1frs,Leviviridae,Levivirus,CRYSTAL STRUCTURE OF BACTERIOPHAGE FR CAPSIDS AT 3.5 ANGSTROMS RESOLUTION,3.5,"ssRNA positive-strand viruses, no DNA stage",3,180,105,143,138,180,555612
+1gav,Leviviridae,Levivirus,BACTERIOPHAGE GA PROTEIN CAPSID,3.4,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,139,540,555072
+1gkv,Leviviridae,Levivirus,MS2-RNA HAIRPIN (C-7) COMPLEX,3.3,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,138,180,558744
+1gkw,Leviviridae,Levivirus,MS2-RNA HAIRPIN (G-10) COMPLEX,2.56,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,139,180,553164
+1kuo,Leviviridae,Levivirus,Ms2-RNA Hairpin (C-10) Complex,2.7,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,139,180,553380
+1mst,Leviviridae,Levivirus,CRYSTAL STRUCTURE OF MS2 CAPSIDS WITH MUTATIONS IN THE SUBUNIT FG LOOP,2.6,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,135,180,560406
+1mva,Leviviridae,Levivirus,STRUCTURE OF A PROTEIN CAPSID OF THE T45A MUTANT OF PHAGE MS2,3,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,135,180,555726
+1mvb,Leviviridae,Levivirus,STRUCTURE OF A PROTEIN CAPSID OF THE T59S MUTANT OF PHAGE MS2,3,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,139,180,560634
+1qbe,Leviviridae,Allolevivirus,BACTERIOPHAGE Q BETA CAPSID,3.5,"ssRNA positive-strand viruses, no DNA stage",3,180,107,147,143,300,725280
+1u1y,Leviviridae,Levivirus,Crystal structure of a complex between WT bacteriophage MS2 coat protein and an F5 aptamer RNA stemloop with 2aminopurine substituted at the-10 position,2.85,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,138,180,573132
+1zdh,Leviviridae,Levivirus,MS2 COAT PROTEIN/RNA COMPLEX,2.7,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,135,180,547896
+1zdi,Leviviridae,Levivirus,RNA BACTERIOPHAGE MS2 COAT PROTEIN/RNA COMPLEX,2.7,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,135,180,548676
+1zdj,Leviviridae,Levivirus,STRUCTURE OF BACTERIOPHAGE COAT PROTEIN-LOOP RNA COMPLEX,2.9,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,138,180,554964
+1zdk,Leviviridae,Levivirus,STRUCTURE OF BACTERIOPHAGE COAT PROTEIN-LOOP RNA COMPLEX,2.86,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,135,180,547980
+1zse,Leviviridae,Levivirus,RNA stemloop from bacteriophage Qbeta complexed with an N87S mutant MS2 Capsid,3,ssRNA,3,180,105,143,139,180,535314
+2b2d,Leviviridae,Levivirus,"RNA stemloop operator from bacteriophage QBETA complexed with an N87S,E89K mutant MS2 capsid",2.9,ssRNA,3,180,105,144,137,540,551262
+2b2e,Leviviridae,Levivirus,"RNA stemloop from bacteriophage MS2 complexed with an N87S,E89K mutant MS2 capsid",3.15,ssRNA,3,180,105,144,139,540,554532
+2b2g,Leviviridae,Levivirus,MS2 Wild-type RNA stemloop complexed with an N87S mutant MS2 capsid,3.02,ssRNA,3,180,105,144,139,180,532800
+2bu1,Leviviridae,Levivirus,MS2-RNA HAIRPIN (5BRU-5) COMPLEX,2.2,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,139,180,552372
+2c4y,Leviviridae,Levivirus,MS2-RNA HAIRPIN (2THIOURACIL-5) COMPLEX,2.68,ssRNA,3,180,105,144,138,180,552840
+2c4z,Leviviridae,Levivirus,MS2-RNA HAIRPIN (2SU-5-6) COMPLEX,2.6,ssRNA,3,180,105,144,138,300,155748
+2c50,Leviviridae,Levivirus,MS2-RNA HAIRPIN (A-5) COMPLEX,2.65,ssRNA,3,180,105,144,138,180,556530
+2c51,Leviviridae,Levivirus,MS2-RNA HAIRPIN (G-5) COMPLEX,2.8,ssRNA,3,180,105,144,140,180,554976
+2ms2,Leviviridae,Levivirus,THE REFINED STRUCTURE OF BACTERIOPHAGE MS2 AT 2.8 ANGSTROMS RESOLUTION,2.8,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,138,180,562506
+2vf9,Leviviridae,N/A,CRYSTAL STRUCTURE OF BACTERIOPHAGE PRR1,3.5,ssRNA,3,180,103,144,139,540,642102
+2w4y,Leviviridae,Levivirus,CAULOBACTER BACTERIOPHAGE 5 - VIRUS-LIKE PARTICLE,2.9,ssRNA,3,180,102,143,140,300,723642
+2w4z,Leviviridae,Levivirus,CAULOBACTER BACTERIOPHAGE 5,3.6,ssRNA,3,180,102,142,139,300,718224
+2wbh,Leviviridae,Levivirus,ICOSAHEDRAL PARTICLE OF COVALENT COAT PROTEIN DIMER OF BACTERIOPHAGE MS2,4.7,ssRNA,3,180,104,144,137,180,563544
+4ang,Leviviridae,Levivirus,SMALL RNA PHAGE PRR1 IN COMPLEX WITH AN RNA OPERATOR FRAGMEN,3.5,ssRNA,3,180,109,150,144,540,651396
+5msf,Leviviridae,Levivirus,MS2 PROTEIN CAPSID/RNA COMPLEX,2.8,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,139,180,549306
+6msf,Leviviridae,Levivirus,F6 APTAMER MS2 COAT PROTEIN COMPLEX,2.8,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,139,180,548700
+7msf,Leviviridae,Levivirus,MS2 PROTEIN CAPSID/RNA COMPLEX,2.8,"ssRNA positive-strand viruses, no DNA stage",3,180,105,144,139,180,559026
+1al0,Microviridae,Microvirus,PROCAPSID OF BACTERIOPHAGE PHIX174,3.5,ssDNA,1,60,86,176,173,0,2085876
+1cd3,Microviridae,Microvirus,PROCAPSID OF BACTERIOPHAGE PHIX174,3.5,ssDNA,1,60,72,176,175,180,2225886
+1gff,Microviridae,Microvirus,THE ATOMIC STRUCTURE OF THE DEGRADED PROCAPSID PARTICLE OF THE BACTERIOPHAGE G4: INDUCED STRUCTURAL CHANGES IN THE PRESENCE OF CALCIUM IONS AND FUNCTIONAL IMPLICATIONS,3,ssDNA viruses,1,60,97,171,168,720,786210
+1kvp,Microviridae,Microvirus,"STRUCTURAL ANALYSIS OF THE SPIROPLASMA VIRUS, SPV4, IMPLICATIONS FOR EVOLUTIONARY VARIATION TO OBTAIN HOST DIVERSITY AMONG THE MICROVIRIDAE, ELECTRON MICROSCOPY, ALPHA CARBONS ONLY",MODEL,ssDNA viruses,1,60,97,179,179,660,1427868
+1m06,Microviridae,Microvirus,"Structural Studies of Bacteriophage alpha3 Assembly, X-Ray Crystallography",3.5,ssDNA viruses,1,60,96,171,170,1080,768336
+1m0f,Microviridae,Microvirus,"Structural Studies of Bacteriophage alpha3 Assembly, Cryo-electron microscopy",16,ssDNA,1,60,76,179,177,120,3523644
+1rb8,Microviridae,Microvirus,The phiX174 DNA binding protein J in two different capsid environments.,3.5,ssDNA viruses,1,60,96,171,170,840,773490
+2bpa,Microviridae,Microvirus,ATOMIC STRUCTURE OF SINGLE-STRANDED DNA BACTERIOPHAGE PHIX174 AND ITS FUNCTIONAL IMPLICATIONS,3,ssDNA viruses,1,60,96,171,168,1200,791292
+3j26,Mimiviridae,Mimivirus,The 3.5 A resolution structure of the Sputnik virophage by cryo-EM,3.5,dsDNA,27,1620,280,411,374,-1020,9672990
+3kk5,Mimiviridae,Satellite,Crystal structure of PBCV-1 VP54 fitted into a cryo-EM reconstruction of the virophage Sputnik,10.7,dsDNA,27,1620,282,378,370,0,0
+1nov,Nodaviridae,Alphanodavirus,NODAMURA VIRUS,3.5,ssRNA positive,3,180,104,179,174,420,504024
+1f8v,Nodaviridae,Alphanodavirus,THE STRUCTURE OF PARIACOTO VIRUS REVEALS A DODECAHEDRAL CAGE OF DUPLEX RNA,3,ssRNA positive-strand viruses,3,180,98,175,172,1200,1139820
+2bbv,Nodaviridae,Alphanodavirus,THE REFINED THREE-DIMENSIONAL STRUCTURE OF AN INSECT VIRUS AT 2.8 ANGSTROMS RESOLUTION,2.8,"ssRNA positive-strand viruses, no DNA stage",3,180,102,172,166,-120,1212642
+2q23,Nodaviridae,Alphanodavirus,Crystal structure of Flock House N363T mutant,3.2,ssRNA,3,180,102,172,168,-960,1157502
+2q25,Nodaviridae,Alphanodavirus,Flock House Virus Coat protein D75N mutant,3.5,ssRNA,3,180,103,172,167,-660,1136220
+2q26,Nodaviridae,Alphanodavirus,FHV VIRUS LIKE PARTICLE,3.5,ssRNA,3,180,102,171,167,-300,525708
+2z2q,Nodaviridae,Alphanodavirus,CRYSTAL STRUCTURE OF FLOCK HOUSE VIRUS,2.7,ssRNA,3,180,102,171,167,120,30696
+3lob,Nodaviridae,Alphanodavirus,Crystal Structure of Flock House Virus calcium mutant,3.6,ssRNA,3,180,103,173,169,0,1293810
+4fsj,Nodaviridae,Alphanodavirus,CRYSTAL STRUCTURE OF THE VIRUS LIKE PARTICLE OF FLOCK HOUSE,3.5,ssRNA,3,180,103,171,168,-900,1173114
+4ftb,Nodaviridae,Alphanodavirus,CRYSTAL STRUCTURE OF THE AUTHENTIC FLOCK HOUSE VIRUS PARTICL,2.7,ssRNA,3,180,101,171,168,-780,1172124
+4fte,Nodaviridae,Alphanodavirus,Crystal structure of the D75N mutant capsid of Flock House virus,3.5,ssRNA,3,180,101,171,168,-720,1170480
+4fts,Nodaviridae,Alphanodavirus,CRYSTAL STRUCTURE OF THE N363T MUTANT OF THE FLOCK HOUSE VIR,3.2,ssRNA,3,180,103,171,168,-900,1142832
+1dzl,Papillomaviridae,Alphapapillomavirus,L1 PROTEIN OF HUMAN PAPILLOMAVIRUS 16,3.5,"dsDNA viruses, no RNA stage",1,60,88,160,158,300,823950
+1l0t,Papillomaviridae,Alphapapillomavirus,ATOMIC MODEL OF THE PAPILLOMAVIRUS CAPSID,MODEL,"dsDNA viruses, no RNA stage",7d,360,225,300,298,1440,5762142
+3iyj,Papillomaviridae,Deltapapillomavirus,Bovine papillomavirus type 1 outer capsid,4.2,dsDNA,7d,360,209,290,286,3120,5055942
+3es5,Partitiviridae,Parititivirus,Crystal Structure of Partitivirus (PsV-F),3.3,dsRNA,2,120,118,188,184,-840,1205724
+3iym,Partitiviridae,Partitivirus,Backbone Trace of the Capsid Protein Dimer of a Fungal Partitivirus from Electron Cryomicroscopy and Homology Modeling,4.7,dsRNA,2,120,123,189,176,300,1550130
+1c8d,Parvoviridae,Parvovirus,CANINE PANLEUKOPENIA VIRUS EMPTY CAPSID STRUCTURE,3,ssDNA viruses,1,60,81,144,139,180,684702
+1c8e,Parvoviridae,Parvovirus,FELINE PANLEUKOPENIA VIRUS EMPTY CAPSID STRUCTURE,3,ssDNA viruses,1,60,79,142,138,120,711168
+1c8f,Parvoviridae,Parvovirus,FELINE PANLEUKOPENIA VIRUS EMPTY CAPSID STRUCTURE,3,ssDNA viruses,1,60,79,142,138,120,706764
+1c8g,Parvoviridae,Parvovirus,FELINE PANLEUKOPENIA VIRUS EMPTY CAPSID STRUCTURE,3,ssDNA viruses,1,60,80,143,139,60,696738
+1c8h,Parvoviridae,Parvovirus,CANINE PARVOVIRUS STRAIN D EMPTY CAPSID STRUCTURE AT PH 5.5,3.5,ssDNA viruses,1,60,80,142,138,60,670476
+1dnv,Parvoviridae,Densovirus,PARVOVIRUS (DENSOVIRUS) FROM GALLERIA MELLONELLA,3.6,ssDNA,1,60,90,133,130,660,557400
+1fpv,Parvoviridae,Parvovirus,STRUCTURE DETERMINATION OF FELINE PANLEUKOPENIA VIRUS EMPTY PARTICLES,3.3,ssDNA,1,60,80,143,139,0,678132
+1ijs,Parvoviridae,Parvovirus,"CPV(STRAIN D) MUTANT A300D, COMPLEX(VIRAL COAT/DNA), VP2, PH=7.5, T=4 DEGREES C",3.25,ssDNA viruses,1,60,81,143,138,-60,623418
+1k3v,Parvoviridae,Parvovirus,Porcine Parvovirus Capsid,3.5,ssDNA viruses,1,60,81,142,137,180,577332
+1lp3,Parvoviridae,Dependovirus,"The Atomic Structure of Adeno-Associated Virus (AAV-2), a Vector for Human Gene Therapy",3,ssDNA viruses,1,60,84,147,140,720,579246
+1mvm,Parvoviridae,Parvovirus,"MVM(STRAIN I), COMPLEX(VIRAL COAT/DNA), VP2, PH=7.5, T=4 DEGREES C",3.5,ssDNA,1,60,82,143,138,180,629004
+1p5w,Parvoviridae,Parvovirus,The structures of host range controlling regions of the capsids of canine and feline parvoviruses and mutants,3.3,ssDNA viruses,1,60,80,142,138,180,643074
+1p5y,Parvoviridae,Parvovirus,The structures of host range controlling regions of the capsids of canine and feline parvoviruses and mutants,3.2,ssDNA viruses,1,60,81,142,138,60,655020
+1s58,Parvoviridae,Parvovirus,The structure of B19 parvovirus capsid,3.5,ssDNA viruses,1,60,79,136,135,900,681714
+1z14,Parvoviridae,Parvovirus,Structural Determinants of Tissue Tropism and In Vivo Pathogenicity for the Parvovirus Minute Virus of Mice,3.25,N/A,1,60,82,145,140,240,635262
+2cas,Parvoviridae,Parvovirus,THE CANINE PARVOVIRUS EMPTY CAPSID STRUCTURE,3,ssDNA viruses,1,60,80,143,138,180,694014
+2g8g,Parvoviridae,Dependovirus,STRUCTURALLY MAPPING THE DIVERSE PHENOTYPE OF ADENO-ASSOCIATED VIRUS SEROTYPE 4,3.2,ssDNA viruses,1,60,84,141,140,720,575970
+2qa0,Parvoviridae,Dependovirus,Structure of Adeno-Associated virus serotype 8,2.6,ssDNA,1,60,83,145,137,600,568434
+3j1q,Parvoviridae,Dependovirus,"Structure of AAV-DJ, a Retargeted Gene Therapy Vector: Cryo-Electron Microscopy at 4.5A resolution",4.5,ssDNA,1,60,84,147,138,540,564522
+3j1s,Parvoviridae,Dependovirus,Structure of adeno-associated virus-2 in complex with neutralizing monoclonal antibody A20,8.5,ssDNA,1,60,84,189,186,900,1530930
+3j4p,Parvoviridae,Dependovirus,ELECTRON MICROSCOPY ANALYSIS OF A DISACCHARIDE ANALOG COMPLE RECEPTOR INTERACTIONS OF ADENO-ASSOCIATED VIRUS,4.8,ssDNA,1,60,84,145,139,720,536544
+3kic,Parvoviridae,Dependovirus,CRYSTAL STRUCTURE OF ADENO-ASSOCIATED VIRUS SEROTYPE 3B,2.6,ssDNA,1,60,84,145,141,600,575046
+3kie,Parvoviridae,Dependovirus,CRYSTAL STRUCTURE OF ADENO-ASSOCIATED VIRUS SEROTYPE 3B,3,ssDNA,1,60,83,146,141,720,583182
+3n7x,Parvoviridae,Brevidensovirus,Crystal structure of Penaeus stylirostris densovirus capsid,2.5,ssDNA,1,60,76,123,115,780,396150
+3ng9,Parvoviridae,Dependovirus,STRUCTURE TO FUNCTION CORRELATIONS FOR ADENO-ASSOCIATED VIRU 1,2.5,ssDNA,1,60,84,144,139,720,549210
+3ntt,Parvoviridae,Dependovirus,STRUCTURAL INSIGHTS OF ADENO-ASSOCIATED VIRUS 5. A GENE THER FOR CYSTIC FIBROSIS,3.45,ssDNA,1,60,83,139,137,60,523002
+3oah,Parvoviridae,Dependovirus,Structural Characterization of the Dual Glycan Binding Adeno-Associated Virus Serotype 6,3,ssDNA,1,60,84,145,139,900,568566
+3p0s,Parvoviridae,Densovirus,Crystal structure of Bombyx mori densovirus 1 capsid,3.1,ssDNA,1,60,80,131,127,660,534240
+3ra2,Parvoviridae,Dependovirus,STRUCTURAL STUDIES OF AAV8 CAPSID TRANSITIONS ASSOCIATED WIT ENDOSOMAL TRAFFICKING,2.7,ssDNA,1,60,84,146,140,600,599340
+3ra4,Parvoviridae,Dependovirus,STRUCTURAL STUDIES OF AAV8 CAPSID TRANSITIONS ASSOCIATED WIT ENDOSOMAL TRAFFICKING,2.7,ssDNA,1,60,84,146,137,660,578772
+3ra8,Parvoviridae,Dependovirus,STRUCTURAL STUDIES OF AAV8 CAPSID TRANSITIONS ASSOCIATED WIT ENDOSOMAL TRAFFICKING,2.7,ssDNA,1,60,84,147,137,540,595908
+3ra9,Parvoviridae,Dependovirus,STRUCTURAL STUDIES OF AAV8 CAPSID TRANSITIONS ASSOCIATED WIT ENDOSOMAL TRAFFICKING,2.7,ssDNA,1,60,84,146,140,660,583482
+3raa,Parvoviridae,Dependovirus,Structural studies of AAV8 capsid transitions associated with endosomal trafficking,3.2,ssDNA,1,60,84,146,139,840,573270
+3tsx,Parvoviridae,Dependovirus,STRUCTURE-FUNCTION ANALYSIS OF RECEPTOR-BINDING IN ADENO-ASS VIRUS SEROTYPE 6 (AAV-6),3,ssDNA,1,60,84,144,143,720,567894
+3ux1,Parvoviridae,Dependovirus,STRUCTURAL CHARACTERIZATION OF ADENO-ASSOCIATED VIRUS SEROTY,2.8,ssDNA,1,60,84,145,139,660,569088
+4dpv,Parvoviridae,Parvovirus,PARVOVIRUS/DNA COMPLEX,2.9,ssDNA viruses,1,60,81,142,139,0,661500
+4g0r,Parvoviridae,Parvovirus,STRUCTURAL CHARACTERIZATION OF H-1 PARVOVIRUS: COMPARISON OF INFECTIOUS VIRIONS TO REPLICATION DEFECTIVE PARTICLES,2.7,ssDNA,1,60,83,145,140,780,614838
+4gbt,Parvoviridae,Parvovirus,STRUCTURAL CHARACTERIZATION OF H-1 PARVOVIRUS: COMPARISON OF INFECTIOUS VIRIONS TO REPLICATION DEFECTIVE PARTICLES,3.2,ssDNA,1,60,82,144,139,0,0
+4iov,Parvoviridae,Dependovirus,"THE STRUCTURE OF AAVRH32.33, A NOVEL GENE DELIVERY VECTOR",3.5,ssDNA,1,60,84,143,140,720,575484
+1m4x,Phycodnaviridae,Chlorovirus,"PBCV-1 virus capsid, quasi-atomic model",MODEL,"dsDNA viruses, no RNA stage",pT169,5040,743,929,847,1080,2390460
+2vf1,Picobirnaviridae,Picobirnavirus,X-RAY CRYSTALLOGRAPHIC STRUCTURE OF THE PICOBIRNAVIRUS CAPSID,3.4,dsRNA,2,120,131,191,187,-660,1288608
+1al2,Picornaviridae,Enterovirus,"P1/MAHONEY POLIOVIRUS, SINGLE SITE MUTANT V1160I",2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,99,162,160,720,1064148
+1ar6,Picornaviridae,Enterovirus,"P1/MAHONEY POLIOVIRUS, DOUBLE MUTANT V1160I +P1095S",2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,99,162,160,720,1066674
+1ar7,Picornaviridae,Enterovirus,"P1/MAHONEY POLIOVIRUS, DOUBLE MUTANT P1095S + H2142Y",2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,99,162,160,540,1071618
+1ar8,Picornaviridae,Enterovirus,"P1/MAHONEY POLIOVIRUS, MUTANT P1095S",2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,94,163,161,660,1151574
+1ar9,Picornaviridae,Enterovirus,"P1/MAHONEY POLIOVIRUS, SINGLE SITE MUTANT H2142Y",2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,99,162,160,660,1066014
+1asj,Picornaviridae,Enterovirus,"P1/MAHONEY POLIOVIRUS, AT CRYOGENIC TEMPERATURE",2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,99,162,160,720,1070862
+1aym,Picornaviridae,Rhinovirus,HUMAN RHINOVIRUS 16 COAT PROTEIN AT HIGH RESOLUTION,2.15,"ssRNA positive-strand viruses, no DNA stage",pT3,60,96,160,155,840,1081242
+1ayn,Picornaviridae,Rhinovirus,HUMAN RHINOVIRUS 16 COAT PROTEIN,2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,96,160,157,1020,1084962
+1bbt,Picornaviridae,Aphthovirus,METHODS USED IN THE STRUCTURE DETERMINATION OF FOOT AND MOUTH DISEASE VIRUS,2.6,"ssRNA positive-strand viruses, no DNA stage",pT3,60,111,152,149,720,720006
+1bev,Picornaviridae,Enterovirus,BOVINE ENTEROVIRUS VG-5-27,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,107,158,154,0,793542
+1c8m,Picornaviridae,Rhinovirus,"REFINED CRYSTAL STRUCTURE OF HUMAN RHINOVIRUS 16 COMPLEXED WITH VP63843 (PLECONARIL), AN ANTI-PICORNAVIRAL DRUG CURRENTLY IN CLINICAL TRIALS",2.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,95,160,157,840,1063476
+1cov,Picornaviridae,Enterovirus,COXSACKIEVIRUS B3 COAT PROTEIN,3.5,"ssRNA positive-strand viruses, no DNA stage",pT3,60,104,165,157,480,889662
+1d3e,Picornaviridae,Rhinovirus,"CRYO-EM STRUCTURE OF HUMAN RHINOVIRUS 16 (HRV16) COMPLEXED WITH A TWO-DOMAIN FRAGMENT OF ITS CELLULAR RECEPTOR, INTERCELLULAR ADHESION MOLECULE-1 (D1D2-ICAM-1). IMPLICATIONS FOR VIRUS-RECEPTOR INTERACTIONS. ALPHA CARBONS ONLY",MODEL,"ssRNA positive-strand viruses, no DNA stage",pT3,60,96,214,212,1260,2884770
+1d3i,Picornaviridae,Rhinovirus,"CRYO-EM STRUCTURE OF HUMAN RHINOVIRUS 14 (HRV14) COMPLEXED WITH A TWO-DOMAIN FRAGMENT OF ITS CELLULAR RECEPTOR, INTERCELLULAR ADHESION MOLECULE-1 (D1D2-ICAM-1). IMPLICATIONS FOR VIRUS-RECEPTOR INTERACTIONS. ALPHA CARBONS ONLY",MODEL,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,212,201,1200,2877012
+1d4m,Picornaviridae,Enterovirus,THE CRYSTAL STRUCTURE OF COXSACKIEVIRUS A9 TO 2.9 A RESOLUTION,2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,98,166,158,660,1085790
+1dgi,Picornaviridae,Enterovirus,"CRYO-EM STRUCTURE OF HUMAN POLIOVIRUS(SEROTYPE 1)COMPLEXED WITH THREE DOMAIN CD155,",MODEL,"ssRNA positive-strand viruses, no DNA stage",pT3,60,100,241,238,900,2856054
+1eah,Picornaviridae,Enterovirus,PV2L COMPLEXED WITH ANTIVIRAL AGENT SCH48973,2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,103,163,160,720,1003866
+1ev1,Picornaviridae,Enterovirus,ECHOVIRUS 1,3.55,"ssRNA positive-strand viruses, no DNA stage",pT3,60,103,164,155,360,890202
+1fmd,Picornaviridae,Aphthovirus,THE STRUCTURE AND ANTIGENICITY OF A TYPE C FOOT-AND-MOUTH DISEASE VIRUS,3.5,"ssRNA positive-strand viruses, no DNA stage",pT3,60,110,151,149,960,714084
+1fod,Picornaviridae,Aphthovirus,STRUCTURE OF A MAJOR IMMUNOGENIC SITE ON FOOT-AND-MOUTH DISEASE VIRUS,2.6,"ssRNA positive-strand viruses, no DNA stage",pT3,60,110,152,150,900,720270
+1fpn,Picornaviridae,Rhinovirus,HUMAN RHINOVIRUS SEROTYPE 2 (HRV2),2.6,"ssRNA positive-strand viruses, no DNA stage",pT3,60,104,160,157,1260,971520
+1h8t,Picornaviridae,Enterovirus,ECHOVIRUS 11,2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,103,166,157,480,942330
+1hri,Picornaviridae,Rhinovirus,STRUCTURE DETERMINATION OF ANTIVIRAL COMPOUND SCH 38057 COMPLEXED WITH HUMAN RHINOVIRUS 14,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,960,837426
+1hrv,Picornaviridae,Rhinovirus,HRV14/SDZ 35-682 COMPLEX,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,835974
+1hxs,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF MAHONEY STRAIN OF POLIOVIRUS AT 2.2A RESOLUTION,2.2,"ssRNA positive-strand viruses, no DNA stage",pT3,60,99,162,160,840,1046766
+1jew,Picornaviridae,Enterovirus,"CRYO-EM STRUCTURE OF COXSACKIEVIRUS B3(M STRAIN) WITH ITS CELLULAR RECEPTOR, COXSACKIEVIRUS AND ADENOVIRUS RECEPTOR (CAR).",MODEL,"ssRNA positive-strand viruses, no DNA stage",pT3,60,104,174,173,660,2536134
+1k5m,Picornaviridae,Rhinovirus,Crystal Structure of a Human Rhinovirus Type 14:Human Immunodeficiency Virus Type 1 V3 Loop Chimeric Virus MN-III-2,2.7,"ssRNA positive-strand viruses, no DNA stage",pT3,60,99,161,157,1260,1125510
+1m11,Picornaviridae,Enterovirus,STRUCTURAL MODEL OF HUMAN DECAY-ACCELERATING FACTOR BOUND TO ECHOVIRUS 7 FROM CRYO-ELECTRON MICROSCOPY,16,ssRNA,pT3,60,107,190,189,600,2492814
+1mec,Picornaviridae,Cardiovirus,CONFORMATIONAL VARIABILITY OF A PICORNAVIRUS CAPSID: PH-DEPENDENT STRUCTURAL CHANGES OF MENGO VIRUS RELATED TO ITS HOST RECEPTOR ATTACHMENT SITE AND DISASSEMBLY,3.2,"ssRNA positive-strand viruses, no DNA stage",pT3,60,109,162,156,660,812340
+1mqt,Picornaviridae,Enterovirus,Swine Vesicular Disease Virus coat protein,3.3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,103,165,157,480,951564
+1na1,Picornaviridae,Rhinovirus,The structure of HRV14 when complexed with Pleconaril,3.3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,106,159,155,840,997476
+1ncq,Picornaviridae,Rhinovirus,"The structure of HRV14 when complexed with pleconaril, an antiviral compound",2.5,"ssRNA positive-strand viruses, no DNA stage",pT3,60,107,159,156,780,976530
+1ncr,Picornaviridae,Rhinovirus,"The structure of Rhinovirus 16 when complexed with pleconaril, an antiviral compound",2.7,"ssRNA positive-strand viruse, no DNA stage",pT3,60,95,159,154,1020,1063044
+1nd2,Picornaviridae,Rhinovirus,The structure of Rhinovirus 16,2.5,"ssRNA positive-strand viruses, no DNA stage",pT3,60,95,160,156,900,1067352
+1nd3,Picornaviridae,Rhinovirus,"The structure of HRV16, when complexed with pleconaril, an antiviral compound",2.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,95,160,157,900,1065594
+1nn8,Picornaviridae,Enterovirus,CryoEM structure of poliovirus receptor bound to poliovirus,MODEL,"ssRNA positive-strand viruses, no DNA stage",pT3,60,100,242,239,1260,2917200
+1oop,Picornaviridae,Enterovirus,The Crystal Structure of Swine Vesicular Disease Virus,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,104,163,157,300,915636
+1piv,Picornaviridae,Enterovirus,BINDING OF THE ANTIVIRAL DRUG WIN51711 TO THE SABIN STRAIN OF TYPE 3 POLIOVIRUS: STRUCTURAL COMPARISON WITH DRUG BINDING IN RHINOVIRUS 14,2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,100,163,161,600,1148136
+1po1,Picornaviridae,Enterovirus,"POLIOVIRUS (TYPE 1, MAHONEY) IN COMPLEX WITH R80633, AN INHIBITOR OF VIRAL REPLICATION",2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,100,163,161,660,1104654
+1po2,Picornaviridae,Enterovirus,"POLIOVIRUS (TYPE 1, MAHONEY) IN COMPLEX WITH R77975, AN INHIBITOR OF VIRAL REPLICATION",2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,100,163,161,600,1103892
+1pov,Picornaviridae,Enterovirus,ROLE AND MECHANISM OF THE MATURATION CLEAVAGE OF VP0 IN POLIOVIRUS ASSEMBLY: STRUCTURE OF THE EMPTY CAPSID ASSEMBLY INTERMEDIATE AT 2.9 ANGSTROMS RESOLUTION,2.88,"ssRNA positive-strand viruses, no DNA stage",pT3,60,104,164,162,1080,1061244
+1pvc,Picornaviridae,Enterovirus,REFINEMENT OF THE SABIN STRAIN OF TYPE 3 POLIOVIRUS AT 2.4 ANGSTROMS AND THE CRYSTAL STRUCTURES OF ITS VARIANTS AT 2.9 ANGSTROMS RESOLUTION,2.4,"ssRNA positive-strand viruses, no DNA stage",pT3,60,100,162,161,540,1125660
+1qgc,Picornaviridae,Aphthovirus,STRUCTURE OF THE COMPLEX OF AN FAB FRAGMENT OF A NEUTRALIZING ANTIBODY WITH FOOT AND MOUTH DISEASE VIRUS,MODEL,"ssRNA positive-strand viruses, no DNA stage",pT3,60,114,216,214,1320,1701924
+1qju,Picornaviridae,Rhinovirus,HUMAN RHINOVIRUS 16 COAT PROTEIN IN COMPLEX WITH ANTIVIRAL COMPOUND VP61209,2.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,96,160,155,1020,1077672
+1qjx,Picornaviridae,Rhinovirus,HUMAN RHINOVIRUS 16 COAT PROTEIN IN COMPLEX WITH ANTIVIRAL COMPOUND WIN68934,2.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,96,160,155,1020,1080678
+1qjy,Picornaviridae,Rhinovirus,HUMAN RHINOVIRUS 16 COAT PROTEIN IN COMPLEX WITH ANTIVIRAL COMPOUND VP65099,2.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,96,160,155,1020,1080756
+1qqp,Picornaviridae,Aphthovirus,FOOT-AND-MOUTH DISEASE VIRUS/ OLIGOSACCHARIDE RECEPTOR COMPLEX.,1.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,110,152,150,720,741324
+1r08,Picornaviridae,Rhinovirus,STRUCTURAL ANALYSIS OF ANTIVIRAL AGENTS THAT INTERACT WITH THE CAPSID OF HUMAN RHINOVIRUSES,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,960,837852
+1r09,Picornaviridae,Rhinovirus,HUMAN RHINOVIRUS 14 COMPLEXED WITH ANTIVIRAL COMPOUND R 61837,2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,833874
+1r1a,Picornaviridae,Rhinovirus,CRYSTAL STRUCTURE OF HUMAN RHINOVIRUS SEROTYPE 1A (HRV1A),3.2,"ssRNA positive-strand viruses, no DNA stage",pT3,60,104,160,156,840,968970
+1rhi,Picornaviridae,Rhinovirus,HUMAN RHINOVIRUS 3 COAT PROTEIN,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,106,161,158,1140,888492
+1rmu,Picornaviridae,Rhinovirus,THREE-DIMENSIONAL STRUCTURES OF DRUG-RESISTANT MUTANTS OF HUMAN RHINOVIRUS 14,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,827172
+1ruc,Picornaviridae,Rhinovirus,RHINOVIRUS 14 MUTANT N1105S COMPLEXED WITH ANTIVIRAL COMPOUND WIN 52035,3.1,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,836070
+1rud,Picornaviridae,Rhinovirus,RHINOVIRUS 14 MUTANT N1105S COMPLEXED WITH ANTIVIRAL COMPOUND WIN 52084,2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,834390
+1rue,Picornaviridae,Rhinovirus,RHINOVIRUS 14 SITE DIRECTED MUTANT N1219A COMPLEXED WITH ANTIVIRAL COMPOUND WIN 52035,2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,837318
+1ruf,Picornaviridae,Rhinovirus,RHINOVIRUS 14 (HRV14) (MUTANT WITH ASN 1 219 REPLACED BY ALA (N219A IN CHAIN 1),2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,833154
+1rug,Picornaviridae,Rhinovirus,RHINOVIRUS 14 MUTANT N1219S COMPLEXED WITH ANTIVIRAL COMPOUND WIN 52035,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,836274
+1ruh,Picornaviridae,Rhinovirus,RHINOVIRUS 14 MUTANT N1219S COMPLEXED WITH ANTIVIRAL COMPOUND WIN 52084,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,835386
+1rui,Picornaviridae,Rhinovirus,RHINOVIRUS 14 MUTANT S1223G COMPLEXED WITH ANTIVIRAL COMPOUND WIN 52084,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,836586
+1ruj,Picornaviridae,Rhinovirus,RHINOVIRUS 14 MUTANT WITH SER 1 223 REPLACED BY GLY (S1223G),3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,833154
+1rvf,Picornaviridae,Rhinovirus,FAB COMPLEXED WITH INTACT HUMAN RHINOVIRUS,4,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,199,184,1320,1279884
+1tme,Picornaviridae,Cardiovirus,THREE-DIMENSIONAL STRUCTURE OF THEILER VIRUS,2.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,112,160,155,600,762450
+1tmf,Picornaviridae,Cardiovirus,THREE-DIMENSIONAL STRUCTURE OF THEILER MURINE ENCEPHALOMYELITIS VIRUS (BEAN STRAIN),3.5,"ssRNA positive-strand viruses, no DNA stage",pT3,60,111,168,159,300,907038
+1upn,Picornaviridae,Enterovirus,COMPLEX OF ECHOVIRUS TYPE 12 WITH DOMAINS 3 AND 4 OF ITS RECEPTOR DECAY ACCELERATING FACTOR (CD55) BY CRYO ELECTRON MICROSCOPY AT 16 A,MODEL,"ssRNA positive-strand viruses, no DNA stage",pT3,60,105,175,171,300,1363236
+1v9u,Picornaviridae,Rhinovirus,Human Rhinovirus 2 bound to a fragment of its cellular receptor protein,3.6,"ssRNA positive-strand viruses, no DNA stage",pT3,60,103,175,168,1020,1141698
+1vba,Picornaviridae,Enterovirus,"POLIOVIRUS (TYPE 3, SABIN STRAIN) (P3/SABIN, P3/LEON/12A(1)B) COMPLEXED WITH R78206",2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,100,163,161,600,1144848
+1vbb,Picornaviridae,Enterovirus,"POLIOVIRUS (TYPE 3, SABIN STRAIN) (P3/SABIN, P3/LEON/12A(1)B) COMPLEXED WITH R80633",2.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,100,163,161,600,1145760
+1vbc,Picornaviridae,Enterovirus,"POLIOVIRUS (TYPE 3, SABIN STRAIN) (P3/SABIN, P3/LEON/12A(1)B) COMPLEXED WITH R77975",2.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,100,163,161,540,1149450
+1vbd,Picornaviridae,Enterovirus,"POLIOVIRUS (TYPE 1, MAHONEY STRAIN) COMPLEXED WITH R78206",2.9,"ssRNA positive-strand viruses, no DNA stage",pT3,60,99,163,162,720,1113954
+1vbe,Picornaviridae,Enterovirus,"POLIOVIRUS (TYPE 3, SABIN STRAIN, MUTANT 242-H2) COMPLEXED WITH R78206",2.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,100,163,161,540,1139370
+1vrh,Picornaviridae,Rhinovirus,HRV14/SDZ 880-061 COMPLEX,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,836058
+1xyr,Picornaviridae,Enterovirus,Poliovirus 135S cell entry intermediate,10,"ssRNA positive-strand viruses, no DNA stage",pT3,60,114,168,168,480,2202180
+1z7s,Picornaviridae,Enterovirus,The crystal structure of coxsackievirus A21,3.2,ssRNA,pT3,60,100,161,159,600,1004280
+1z7z,Picornaviridae,Enterovirus,CRYO-EM STRUCTURE OF HUMAN COXSACKIEVIRUS A21 COMPLEXED WITH DOMAIN ICAM-1KILIFI,8,ssRNA,pT3,60,108,318,310,600,2238270
+1zba,Picornaviridae,Aphthovirus,Foot-and-Mouth Disease virus serotype A1061 complexed with oligosaccharide receptor.,2,ssRNA,pT3,60,110,152,150,1080,772128
+1zbe,Picornaviridae,Aphthovirus,Foot-and Mouth Disease Virus Serotype A1061,3,ssRNA,pT3,60,109,152,149,1020,798978
+2c8i,Picornaviridae,Enterovirus,"COMPLEX OF ECHOVIRUS TYPE 12 WITH DOMAINS 1, 2, 3 AND 4 OF ITS RECEPTOR DECAY ACCELERATING FACTOR (CD55) BY CRYO ELECTRON MICROSCOPY AT 16 A",14,ssRNA,pT3,60,106,202,199,360,3214296
+2hwb,Picornaviridae,Rhinovirus,A COMPARISON OF THE ANTI-RHINOVIRAL DRUG BINDING POCKET IN HRV14 AND HRV1A,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,960,832752
+2hwc,Picornaviridae,Rhinovirus,A COMPARISON OF THE ANTI-RHINOVIRAL DRUG BINDING POCKET IN HRV14 AND HRV1A,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,960,833712
+2hwd,Picornaviridae,Rhinovirus,A COMPARISON OF THE ANTI-RHINOVIRAL DRUG BINDING POCKET IN HRV14 AND HRV1A,3.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,105,161,157,960,972948
+2hwe,Picornaviridae,Rhinovirus,A COMPARISON OF THE ANTI-RHINOVIRAL DRUG BINDING POCKET IN HRV14 AND HRV1A,3.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,105,161,157,900,974670
+2hwf,Picornaviridae,Rhinovirus,A COMPARISON OF THE ANTI-RHINOVIRAL DRUG BINDING POCKET IN HRV14 AND HRV1A,3.8,"ssRNA positive-strand viruses, no DNA stage",pT3,60,104,160,156,840,976122
+2mev,Picornaviridae,Cardiovirus,STRUCTURAL REFINEMENT AND ANALYSIS OF MENGO VIRUS,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,109,163,154,540,802674
+2plv,Picornaviridae,Enterovirus,STRUCTURAL FACTORS THAT CONTROL CONFORMATIONAL TRANSITIONS AND SEROTYPE SPECIFICITY IN TYPE 3 POLIOVIRUS,2.88,"ssRNA positive-strand viruses, no DNA stage",pT3,60,100,163,160,660,1076706
+2r04,Picornaviridae,Rhinovirus,STRUCTURAL ANALYSIS OF ANTIVIRAL AGENTS THAT INTERACT WITH THE CAPSID OF HUMAN RHINOVIRUSES,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,833322
+2r06,Picornaviridae,Rhinovirus,STRUCTURAL ANALYSIS OF ANTIVIRAL AGENTS THAT INTERACT WITH THE CAPSID OF HUMAN RHINOVIRUSES,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,834804
+2r07,Picornaviridae,Rhinovirus,STRUCTURAL ANALYSIS OF ANTIVIRAL AGENTS THAT INTERACT WITH THE CAPSID OF HUMAN RHINOVIRUSES,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,835944
+2rm2,Picornaviridae,Rhinovirus,STRUCTURAL ANALYSIS OF ANTIVIRAL AGENTS THAT INTERACT WITH THE CAPSID OF HUMAN RHINOVIRUSES,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,834300
+2rmu,Picornaviridae,Rhinovirus,THREE-DIMENSIONAL STRUCTURES OF DRUG-RESISTANT MUTANTS OF HUMAN RHINOVIRUS 14,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,832080
+2rr1,Picornaviridae,Rhinovirus,STRUCTURAL ANALYSIS OF ANTIVIRAL AGENTS THAT INTERACT WITH THE CAPSID OF HUMAN RHINOVIRUSES,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,835140
+2rs1,Picornaviridae,Rhinovirus,STRUCTURAL ANALYSIS OF ANTIVIRAL AGENTS THAT INTERACT WITH THE CAPSID OF HUMAN RHINOVIRUSES,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,835398
+2rs3,Picornaviridae,Rhinovirus,STRUCTURAL ANALYSIS OF ANTIVIRAL AGENTS THAT INTERACT WITH THE CAPSID OF HUMAN RHINOVIRUSES,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,834978
+2rs5,Picornaviridae,Rhinovirus,STRUCTURAL ANALYSIS OF ANTIVIRAL AGENTS THAT INTERACT WITH THE CAPSID OF HUMAN RHINOVIRUSES,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,832320
+2wff,Picornaviridae,Aphthovirus,EQUINE RHINITIS A VIRUS,4,ssRNA,pT3,60,112,157,154,1200,669102
+2ws9,Picornaviridae,Aphthovirus,EQUINE RHINITIS A VIRUS AT LOW PH,3,ssRNA,pT3,60,114,159,157,900,678888
+2x5i,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE ECHOVIRUS 7,3.1,ssRNA,pT3,60,103,165,156,600,899688
+3cji,Picornaviridae,Senecavirus,Structure of Seneca Valley Virus-001,2.3,ssRNA,pT3,60,106,163,157,240,944880
+3dpr,Picornaviridae,Enterovirus,HUMAN RHINOVIRUS 2 BOUND TO A CONCATAMER OF THE VLDL RECEPTO V3,3.5,ssRNA,pT3,60,103,173,167,1020,1072926
+3epc,Picornaviridae,Enterovirus,CRYOEM STRUCTURE OF POLIOVIRUS RECEPTOR BOUND TO POLIOVIRUS,8,ssRNA,pT3,60,102,207,203,840,1477248
+3epd,Picornaviridae,Enterovirus,CRYOEM STRUCTURE OF POLIOVIRUS RECEPTOR BOUND TO POLIOVIRUS,9,ssRNA,pT3,60,103,206,201,780,1455114
+3epf,Picornaviridae,Enterovirus,?,9,ssRNA,pT3,60,102,204,197,840,1466994
+3iyb,Picornaviridae,Enterovirus,Poliovirus early RNA-release intermediate,10,ssRNA,pT3,60,114,169,165,0,0
+3iyc,Picornaviridae,Enterovirus,Poliovirus late RNA-release intermediate,10,ssRNA,pT3,60,115,170,170,0,0
+3iyp,Picornaviridae,Enterovirus,THE INTERACTION OF DECAY-ACCELERATING FACTOR WITH ECHOVIRUS,7.2,ssRNA,pT3,60,103,196,193,360,1517382
+3j22,Picornaviridae,Enterovirus,THE ENTEROVIRUS 71 A-PARTICLE,6.3,ssRNA,pT3,60,115,167,161,660,928746
+3j23,Picornaviridae,Enterovirus,THE ENTEROVIRUS 71 EMPTY CAPSID,9.2,ssRNA,pT3,60,115,167,161,660,928746
+3j2j,Picornaviridae,Enterovirus,Empty coxsackievirus A9 capsid,9.54,ssRNA,pT3,60,115,170,159,600,873102
+3j3o,Picornaviridae,Enterovirus,CONFORMATIONAL SHIFT OF A MAJOR POLIOVIRUS ANTIGEN CONFIRMED IMMUNO-CRYOGENIC ELECTRON MICROSCOPY: 160S POLIOVIRUS AND C COMPLEX,11.1,ssRNA,pT3,60,100,220,216,900,3672072
+3j3p,Picornaviridae,Enterovirus,CONFORMATIONAL SHIFT OF A MAJOR POLIOVIRUS ANTIGEN CONFIRMED IMMUNO-CRYOGENIC ELECTRON MICROSCOPY: 135S POLIOVIRUS AND C COMPLEX,9.1,ssRNA,pT3,60,114,230,227,480,3394890
+3j48,Picornaviridae,Enterovirus,CRYO-EM STRUCTURE OF POLIOVIRUS 135S PARTICLES,5.5,ssRNA,pT3,60,115,167,165,960,2062506
+3j69,Picornaviridae,Enterovirus,ELECTRON CRYO-MICROSCOPY OF NANOBODY PVSP6A IN COMPLEX WITH P1/MAHONEY,4.8,ssRNA,pT3,60,102,175,168,840,1202532
+3j6a,Picornaviridae,Enterovirus,ELECTRON CRYO-MICROSCOPY OF NANOBODY PVSP29F IN COMPLEX WITH POLIOVIRUS P1/MAHONEY,6.5,ssRNA,pT3,60,102,180,175,1020,1245888
+3tn9,Picornaviridae,Rhinovirus,X-RAY STRUCTURE OF THE HRV2 EMPTY CAPSID (B-PARTICLE),3,ssRNA,pT3,60,115,166,163,1320,916290
+3vbf,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF FORMALDEHYDE TREATED HUMAN ENTEROVIRUS GROUP I23),2.6,ssRNA,pT3,60,105,159,155,540,873372
+3vbh,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF FORMALDEHYDE TREATED HUMAN ENTEROVIRUS GROUP R32),2.3,ssRNA,pT3,60,105,159,155,480,875664
+3vbo,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF FORMALDEHYDE TREATED EMPTY HUMAN ENTERO PARTICLE (CRYO AT 100K),2.88,ssRNA,pT3,60,115,167,161,780,917346
+3vbr,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF FORMALDEHYDE TREATED EMPTY HUMAN ENTERO PARTICLE (ROOM TEMPERATURE),3.8,ssRNA,pT3,60,115,167,161,720,919104
+3vbs,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF HUMAN ENTEROVIRUS 71,3,ssRNA,pT3,60,105,159,155,540,882660
+3vbu,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF EMPTY HUMAN ENTEROVIRUS 71 PARTICLE,4,ssRNA,pT3,60,115,167,161,660,928746
+3vdd,Picornaviridae,Rhinovirus,STRUCTURE OF HRV2 CAPSID COMPLEXED WITH ANTIVIRAL COMPOUND B,3.2,ssRNA,pT3,60,100,159,157,780,1044474
+3zfe,Picornaviridae,Enterovirus,HUMAN ENTEROVIRUS 71 IN COMPLEX WITH CAPSID BINDING INHIBITOR WIN51711,2.7,ssRNA,pT3,60,103,158,155,360,912798
+3zff,Picornaviridae,Enterovirus,HUMAN ENTEROVIRUS 71 IN COMPLEX WITH CAPSID BINDING INHIBITOR WIN51711,3.4,ssRNA,pT3,60,102,158,154,240,898518
+3zfg,Picornaviridae,Enterovirus,HUMAN ENTEROVIRUS 71 IN COMPLEX WITH CAPSID BINDING INHIBITOR WIN51711,3.2,ssRNA,pT3,60,103,158,154,300,890754
+4aed,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF HUMAN ENTEROVIRUS 71,3.8,ssRNA,pT3,60,104,158,153,240,887994
+4agx,Picornaviridae,Enterovirus,COXSACKIEVIRUS A7 (CAV7) FULL CAPSID RECONSTRUCTION AT 8.23 ANGSTROM RESOLUTION.,8.23,ssRNA,pT3,60,114,162,157,540,988542
+4agy,Picornaviridae,Enterovirus,COXSACKIEVIRUS A7 (CAV7) EMPTY CAPSID RECONSTRUCTION AT 6.09 ANGSTROM RESOLUTION.,6.09,ssRNA,pT3,60,112,164,159,600,1148376
+4bip,Picornaviridae,Enterovirus,HOMOLOGY MODEL OF COXSACKIEVIRUS A7 (CAV7) FULL CAPSID PROTEINS.,8.23,ssRNA,pT3,60,115,160,158,660,1007052
+4biq,Picornaviridae,Enterovirus,HOMOLOGY MODEL OF COXSACKIEVIRUS A7 (CAV7) EMPTY CAPSID PROT,6.09,ssRNA,pT3,60,117,164,161,660,992790
+4c0u,Picornaviridae,Enterovirus,CRYO-EM RECONSTRUCTION OF ENTEROVIRUS 71 IN COMPLEX WITH A NEUTRALIZING ANTIBODY E18,10,ssRNA,pT3,60,115,219,214,0,0
+4c0y,Picornaviridae,Enterovirus,CRYO-EM RECONSTRUCTION OF EMPTY ENTEROVIRUS 71 IN COMPLEX WITH A NEUTRALIZING ANTIBODY E18,0,ssRNA,pT3,60,115,219,214,0,0
+4c10,Picornaviridae,Enterovirus,CRYO-EM RECONSTRUCTION OF EMPTY ENTEROVIRUS 71 IN COMPLEX WITH A NEUTRALIZING ANTIBODY E19,13,ssRNA,pT3,60,103,219,215,0,0
+4cdq,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF HUMAN ENTEROVIRUS 71 IN COMPLEX WITH TH UNCOATING INHIBITOR GPP2,2.65,ssRNA,pT3,60,105,160,155,540,868560
+4cdu,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF HUMAN ENTEROVIRUS 71 IN COMPLEX WITH THE UNCOATING INHIBITOR GPP3,2.8,ssRNA,pT3,60,105,160,156,600,867372
+4cdw,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF HUMAN ENTEROVIRUS 71 IN COMPLEX WITH THE UNCOATING INHIBITOR GPP4,2.8,ssRNA,pT3,60,105,159,155,480,877500
+4cdx,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF HUMAN ENTEROVIRUS 71 IN COMPLEX WITH THE UNCOATING INHIBITOR GPP12,2.8,ssRNA,pT3,60,105,159,155,480,870000
+4cew,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF HUMAN ENTEROVIRUS 71 IN COMPLEX WITH THE UNCOATING INHIBITOR ALD,2.75,ssRNA,pT3,60,105,159,156,420,874278
+4cey,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF HUMAN ENTEROVIRUS 71 IN COMPLEX WITH THE UNCOATING INHIBITOR NLD,2.75,ssRNA,pT3,60,105,159,156,420,880890
+4gb3,Picornaviridae,Enterovirus,HUMAN COXSACKIEVIRUS B3 STRAIN RD COAT PROTEIN,2.74,ssRNA,pT3,60,102,164,156,720,886194
+4gh4,Picornaviridae,Aphthovirus,CRYSTAL STRUCTURE OF FOOT AND MOUTH DISEASE VIRUS A22 SEROTY,3,ssRNA,pT3,60,112,151,149,1200,684966
+4gmp,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF ENTEROVIRUS 71 STRAIN 1095 PROCAPSID,3.9,ssRNA,pT3,60,114,166,160,660,909978
+4iv1,Picornaviridae,Aphthovirus,CRYSTAL STRUCTURE OF RECOMBINANT FOOT-AND-MOUTH-DISEASE VIRU EMPTY CAPSID,2.1,ssRNA,pT3,60,111,151,149,1140,706158
+4iv3,Picornaviridae,Aphthovirus,CRYSTAL STRUCTURE OF RECOMBINANT FOOT-AND-MOUTH-DISEASE VIRU H2093C EMPTY CAPSID,2.9,ssRNA,pT3,60,114,151,149,1200,676872
+4jgy,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF HUMAN COXSACKIEVIRUS A16 UNCOATING INTE (SPACE GROUP P4232),3,ssRNA,pT3,60,116,166,161,540,861132
+4jgz,Picornaviridae,Enterovirus,CRYSTAL STRUCTURE OF HUMAN COXSACKIEVIRUS A16 UNCOATING INTE (SPACE GROUP I222),3,ssRNA,pT3,60,116,166,161,600,872940
+4l3b,Picornaviridae,Enterovirus,X-RAY STRUCTURE OF THE HRV2 A PARTICLE UNCOATING INTERMEDIAT,6.5,ssRNA,pT3,60,114,167,163,1380,1009794
+4n43,Picornaviridae,Enterovirus,HUMAN ENTEROVIRUS 71 UNCOATING INTERMEDIATE CAPTURED AT ATOM RESOLUTION,3.8,ssRNA,pT3,60,114,166,160,120,929112
+4n53,Picornaviridae,Enterovirus,HUMAN ENTEROVIRUS 71 UNCOATING INTERMEDIATE CAPTURED AT ATOM RESOLUTION,3.31,ssRNA,pT3,60,103,158,153,300,849852
+4pdw,Picornaviridae,Enterovirus,A BENZONITRILE ANALOGUE INHIBITS RHINOVIRUS REPLICATION,3,ssRNA,pT3,60,105,160,156,900,871644
+4rhv,Picornaviridae,Rhinovirus,THE USE OF MOLECULAR-REPLACEMENT PHASES FOR THE REFINEMENT OF THE HUMAN RHINOVIRUS 14 STRUCTURE,3,"ssRNA positive-strand viruses, no DNA stage",pT3,60,108,161,157,1020,832152
+hrvc,Picornaviridae,Enterovirus,THREE-DIMENSIONAL ATOMIC MODEL OF RHINOVIRUS C15,0,ssRNA,pT3,60,94,158,155,1380,1143054
+2xyy,Podoviridae,P22-like viruses,DE NOVO MODEL OF BACTERIOPHAGE P22 PROCAPSID COAT PROTEIN,3.8,dsDNA,7l,420,232,302,298,-2460,7471218
+3c5b,Podoviridae,p22-like Viruses,De Novo Model of Bacteriophage Epsilon 15 Major Capsid Protein GP7,4.5,dsDNA,7l,420,268,334,321,780,6736056
+3iyh,Podoviridae,P22-like Viruses,P22 procapsid coat protein structures reveal a novel mechanism for capsid maturation: Stability without auxiliary proteins or chemical cross-links,8.2,dsDNA,7l,420,264,322,317,-1200,6221304
+3iyi,Podoviridae,P22-like Viruses,P22 expanded head coat protein structures reveal a novel mechanism for capsid maturation: Stability without auxiliary proteins or chemical cross-links,9.1,dsDNA,7l,420,231,300,294,-2460,6428766
+3izg,Podoviridae,T7-like,Bacteriophage T7 prohead shell EM-derived atomic model,10.9,dsDNA,7,420,215,274,264,360,3352578
+3j1a,Podoviridae,T7-like,HK97-like fold fitted into 3D reconstruction of bacteriophage CW02,16,dsDNA,7,420,275,335,332,0,0
+3j40,Podoviridae,Epsilon15-like,Validated Near-Atomic Resolution Structure of Bacteriophage Epsilon15 Derived from Cryo-EM and Modeling,4.5,dsDNA,7l,420,266,342,333,-2280,6257532
+3j4u,Podoviridae,N/A,A new topology of the HK97-like fold revealed in Bordetella bacteriophage: non-covalent chainmail secured by jellyrolls,3.5,dsDNA,7l,420,263,338,324,-1620,4335126
+4bml,Podoviridae,Unassigned Autographivirinae,C-ALPHA BACKBONE TRACE OF MAJOR CAPSID PROTEIN GP39 FOUND IN MARINE VIRUS SYN5.,5.7,dsDNA,7l,420,269,332,320,-600,6594810
+1sid,Polyomaviridae,Polyomavirus,MURINE POLYOMAVIRUS COMPLEXED WITH 3'SIALYL LACTOSE,3.65,"dsDNA viruses, no RNA stage",7d,360,174,255,252,-840,3621312
+1sie,Polyomaviridae,Polyomavirus,MURINE POLYOMAVIRUS COMPLEXED WITH A DISIALYLATED OLIGOSACCHARIDE,3.65,"dsDNA viruses, no RNA stage",7d,360,175,255,252,-660,3584688
+1sva,Polyomaviridae,Polyomavirus,SIMIAN VIRUS 40,3.1,"dsDNA viruses, no RNA stage",7d,360,179,247,246,0,2899158
+3iys,Polyomaviridae,Polyomavirus,Homology model of avian polyomavirus asymmetric unit,11.3,dsDNA,7d,360,175,255,251,60,4293570
+1ej6,Reoviridae,Orthoreovirus,REOVIRUS CORE,3.6,dsRNA viruses,2,120,236,377,367,2100,N/A
+1uf2,Reoviridae,Phytoreovirus,The Atomic Structure of Rice dwarf Virus (RDV),3.5,dsRNA viruses,13,780,255,379,367,-180,N/A
+2btv,Reoviridae,Orbivirus,ATOMIC MODEL FOR BLUETONGUE VIRUS (BTV) CORE,3.5,dsRNA viruses,13,780,231,353,348,4200,N/A
+3gzt,Reoviridae,Rotavirus,VP7 RECOATED ROTAVIRUS DLP,3.8,dsRNA,13,780,325,386,384,-11700,7391676
+3iyk,Reoviridae,Orbivirus,"Bluetongue virus structure reveals a sialic acid binding domain, amphipathic helices and a central coiled coil in the outer capsid proteins",7,dsRNA,13,780,315,406,405,0,0
+3iyl,Reoviridae,Aquareovirus,Atomic CryoEM Structure of a Nonenveloped Virus Suggests How Membrane Penetration Protein is Primed for Cell Entry,3.3,dsRNA,2,120,238,476,275,6180,N/A
+3iyu,Reoviridae,Rotavirus,ATOMIC MODEL OF AN INFECTIOUS ROTAVIRUS PARTICLE,3.8,dsRNA,13,780,303,498,484,-11760,12373938
+3iz3,Reoviridae,Reovirus,CryoEM structure of cytoplasmic polyhedrosis virus,3.9,dsRNA,2,60,270,470,364,0,0
+3izx,Reoviridae,Cypovirus,3.1 Angstrom cryoEM structure of cytoplasmic polyhedrosis virus,3.1,dsRNA,2,120,227,454,299,0,0
+3j17,Reoviridae,Cypovirus,Structure of a transcribing cypovirus by cryo-electron microscopy,0,dsRNA,1,60,242,484,310,0,0
+3kz4,Reoviridae,Rotavirus,CRYSTAL STRUCTURE OF THE ROTAVIRUS DOUBLE LAYERED PARTICLE,3.8,dsRNA,13,780,259,454,352,0,0
+3n09,Reoviridae,Rotavirus,Atomic model of an infectious rotavirus particle,3.8,dsRNA,13,780,259,448,352,0,0
+2x8q,Retroviridae,Alpharetrovirus,CRYO-EM 3D MODEL OF THE ICOSAHEDRAL PARTICLE COMPOSED OF ROUS SARCOMA VIRUS CAPSID PROTEIN PENTAMERS,18.3,ssRNA-RT,1,60,58,120,120,300,733080
+3j31,Rudiviridae,Rudivirus,Life in the extremes: atomic structure of Sulfolobus Turreted Icosahedral Virus,4.5,dsDNA,31,1860,275,485,359,0,0
+1a34,Satellites,Satellite Viruses,SATELLITE TOBACCO MOSAIC VIRUS/RNA COMPLEX,1.81,N/A,1,60,55,88,87,300,201366
+1stm,Satellites,Satellite Viruses,SATELLITE PANICUM MOSAIC VIRUS,1.9,N/A,1,60,56,85,84,-60,160644
+2buk,Satellites,Satellite Viruses,SATELLITE TOBACCO NECROSIS VIRUS,2.45,"ssRNA positive-strand viruses, no DNA stage",1,60,45,98,96,480,297906
+3rqv,Satellites,Satellite Viruses,1.45 ANGSTROM STRUCTURE OF STNV COAT PROTEIN (HALF OF THE CA OTHER HALF IN PDB 1VTZ),1.45,ssRNA,1,60,45,97,95,480,285804
+1if0,Siphoviridae,Lambda-like viruses,PSEUDO-ATOMIC MODEL OF BACTERIOPHAGE HK97 PROCAPSID (PROHEAD II),MODEL,"dsDNA viruses, no RNA stage",7l,420,209,276,266,-1260,5695608
+1ohg,Siphoviridae,Lambda-like viruses,STRUCTURE OF THE DSDNA BACTERIOPHAGE HK97 MATURE EMPTY CAPSID,3.45,"dsDNA virus, no RNA stage",7l,420,261,329,308,-1860,3289272
+2frp,Siphoviridae,Lambda-like viruses,Bacteriophage HK97 Expansion Intermediate IV,7.5,"dsDNA viruses, no RNA stage",7l,420,260,322,300,-1800,3239694
+2fs3,Siphoviridae,Lambda-like viruses,Bacteriophage HK97 K169Y Head I,4.2,"dsDNA viruses, no RNA stage",7l,420,259,321,300,-2100,3397710
+2fsy,Siphoviridae,Lambda-like viruses,Bacteriophage HK97 Pepsin-treated Expansion Intermediate IV,3.8,"dsDNA viruses, no RNA stage",7l,420,259,320,299,-1740,3293364
+2ft1,Siphoviridae,Lambda-like viruses,Bacteriophage HK97 Head II,3.9,dsDNA,7l,420,260,326,305,-1800,3242754
+2fte,Siphoviridae,Lambda-like viruses,Bacteriophage HK97 Expansion Intermediate IV,MODEL,"dsDNA viruses, no RNA stage",7l,420,260,314,295,-1860,3412338
+2gp1,Siphoviridae,Lambda-like viruses,Bacteriophage HK97 Prohead II crystal structure,5.2,dsDNA,7l,420,201,271,260,-900,3583812
+3ddx,Siphoviridae,Lambda-like Viruses,HK97 bacteriophage capsid Expansion Intermediate-II model,0,dsDNA,7l,420,235,308,285,-2040,4008036
+3e8k,Siphoviridae,Lambda-like viruses,Crystal structure of HK97 Prohead II,3.65,dsDNA,7l,420,203,271,260,-960,3166476
+3p8q,Siphoviridae,Lambda-like viruses,HK97 Prohead I encapsidating inactive virally encoded protease,5.2,dsDNA,7l,420,194,268,253,-1320,4118520
+3qpr,Siphoviridae,Lamda-like viruses,HK97 Prohead I encapsidating inactive virally encoded protease,5.2,dsDNA,7l,420,194,268,254,-1260,3819606
+4an5,Siphoviridae,Lambda-like viruses,Capsid structure and its Stability at the Late Stages of Bacteriophage SPP1 Assembly,8.8,dsDNA,7l,420,278,338,331,-1860,4750434
+1f2n,Sobemoviridae,Sobemovirus,RICE YELLOW MOTTLE VIRUS,2.8,"ssRNA positive-strand viruses, no DNA stage",3,180,107,159,150,1200,724386
+1ng0,Sobemoviridae,Sobemovirus,The three-dimensional structure of Cocksfoot mottle virus at 2.7A resolution,2.7,"ssRNA positive-strand viruses, no DNA stage",3,180,109,160,152,540,753900
+1smv,Sobemoviridae,Sobemovirus,PRIMARY STRUCTURE OF SESBANIA MOSAIC VIRUS COAT PROTEIN: ITS IMPLICATIONS TO THE ASSEMBLY AND ARCHITECTURE OF THE VIRUS,3,ssRNA positive-strand viruses,3,180,107,160,150,-300,738930
+1vak,Sobemoviridae,Sobemovirus,T=1 capsid structure of Sesbania mosaic virus coat protein deletion mutant CP-N(delta)65,3.05,"ssRNA positive-strand viruses, no DNA stage",1,60,58,97,96,-60,198840
+1vb2,Sobemoviridae,Sobemovirus,T=1 capsid structure of Sesbania mosaic virus coat protein deletion mutant CP-N(delta)65-D146N-D149N,3.4,"ssRNA positive-strand viruses, no DNA stage",1,60,58,97,92,120,220188
+1vb4,Sobemoviridae,Sobemovirus,T=1 capsid structure of Sesbania mosaic virus coat protein deletion mutant CP-N(delta)36,3.3,"ssRNA positive-strand viruses, no DNA stage",1,60,57,96,91,0,189804
+1x33,Sobemoviridae,Sobemovirus,T=3 recombinant capsid of SeMV CP,3.6,ssRNA,3,180,107,160,155,60,339612
+1x35,Sobemoviridae,Sobemovirus,Recombinant T=3 capsid of a site specific mutant of SeMV CP,4.1,"ssRNA positive-strand viruses, no DNA stage",3,180,106,158,149,180,706494
+1x36,Sobemoviridae,Sobemovirus,T=1 capsid of an amino-terminal deletion mutant of SeMV CP,2.7,"ssRNA positive-strand viruses, no DNA stage",1,60,57,96,91,-60,187524
+2izw,Sobemoviridae,Sobemovirus,CRYSTAL STRUCTURE OF RYEGRASS MOTTLE VIRUS,2.9,ssRNA,3,180,103,156,152,420,734832
+2vq0,Sobemoviridae,Sobemovirus,CAPSID STRUCTURE OF SESBANIA MOSAIC VIRUS COAT PROTEIN DELETION MUTANT RCP(DELTA 48 TO 59),3.6,ssRNA,3,180,107,158,149,300,745788
+4sbv,Sobemoviridae,Sobemovirus,THE REFINEMENT OF SOUTHERN BEAN MOSAIC VIRUS IN RECIPROCAL SPACE,2.8,"ssRNA positive-strand viruses, no DNA stage",3,180,107,160,151,360,752454
+1gw7,Tectiviridae,Tectivirus,"QUASI-ATOMIC RESOLUTION MODEL OF BACTERIOPHAGE PRD1 CAPSID, OBTAINED BY COMBINED CRYO-EM AND X-RAY CRYSTALLOGRAPHY.",MODEL,"dsDNA viruses, no RNA stage",pT25,780,242,348,330,-2640,7638738
+1gw8,Tectiviridae,Tectivirus,"QUASI-ATOMIC RESOLUTION MODEL OF BACTERIOPHAGE PRD1 SUS607 MUTANT, OBTAINED BY COMBINED CRYO-EM AND X-RAY CRYSTALLOGRAPHY.",MODEL,"dsDNA viruses, no RNA stage",pT25,780,241,347,332,-3180,7547874
+1hb5,Tectiviridae,Tectivirus,"QUASI-ATOMIC RESOLUTION MODEL OF BACTERIOPHAGE PRD1 P3-SHELL, OBTAINED BY COMBINED CRYO-EM AND X-RAY CRYSTALLOGRAPHY.",MODEL,"dsDNA viruses, no RNA stage",pT25,780,235,325,314,-2160,5643096
+1hb7,Tectiviridae,Tectivirus,"QUASI-ATOMIC RESOLUTION MODEL OF BACTERIOPHAGE PRD1 SUS1 MUTANT, OBTAINED BY COMBINED CRYO-EM AND X-RAY CRYSTALLOGRAPHY.",MODEL,"dsDNA viruses, no RNA stage",pT25,780,241,346,327,-3300,7365558
+1hb9,Tectiviridae,Tectivirus,"QUASI-ATOMIC RESOLUTION MODEL OF BACTERIOPHAGE PRD1 WILD TYPE VIRION, OBTAINED BY COMBINED CRYO-EM AND X-RAY CRYSTALLOGRAPHY.",MODEL,"dsDNA viruses, no RNA stage",pT25,780,244,351,336,-1920,8055852
+1w8x,Tectiviridae,Tectivirus,STRUCTURAL ANALYSIS OF PRD1,4.2,"dsDNA viruses, no RNA stage",pT25,780,226,352,338,-2460,8786034
+1ohf,Tetraviridae,Omegatetravirus,THE REFINED STRUCTURE OF NUDAURELIA CAPENSIS OMEGA VIRUS,2.8,"ssRNA positive-strand viruses, no DNA stage",4,240,117,216,211,-2940,2557566
+2qqp,Tetraviridae,Betatetravirus,CRYSTAL STRUCTURE OF AUTHENTIC PROVIDENCE VIRUS,3.8,ssRNA,4,240,114,210,207,-4980,2291442
+3s6p,Tetraviridae,Omegatetravirus,CRYSTAL STRUCTURE OF HELICOVERPA ARMIGERA STUNT VIRUS,2.5,ssRNA,4,240,114,219,211,-2160,2582754
+2e0z,Thermococcaceae,Pyrococcus,CRYSTAL STRUCTURE OF VIRUS-LIKE PARTICLE FROM PYROCOCCUS FURIOSUS,3.6,ssDNA,3,180,141,192,185,-300,1190646
+1dyl,Togaviridae,Alphavirus,9 ANGSTROM RESOLUTION CRYO-EM RECONSTRUCTION STRUCTURE OF SEMLIKI FOREST VIRUS (SFV) AND FITTING OF THE CAPSID PROTEIN STRUCTURE IN THE EM DENSITY,MODEL,"ssRNA positive-strand viruses, no DNA stage",4,240,159,205,203,2280,1332984
+1ld4,Togaviridae,Alphavirus,Placement of the Structural Proteins in Sindbis Virus,MODEL,"ssRNA positive-strand viruses, no DNA stage",4,240,182,330,326,1440,1254036
+2xfb,Togaviridae,Alphavirus,THE CHIKUNGUNYA E1 E2 ENVELOPE GLYCOPROTEIN COMPLEX FIT INTO THE SINDBIS VIRUS CRYO-EM MAP,9,ssRNA,4,240,264,343,341,6660,6346338
+2xfc,Togaviridae,Alphavirus,THE CHIKUNGUNYA E1 E2 ENVELOPE GLYCOPROTEIN COMPLEX FIT INTO THE SEMLIKI FOREST VIRUS CRYO-EM MAP,9,ssRNA,4,240,261,349,345,7140,6684954
+2yew,Togaviridae,Alphavirus,MODELING BARMAH FOREST VIRUS STRUCTURAL PROTEINS,5,ssRNA,4,240,148,337,334,0,0
+3j0c,Togaviridae,Alphavirus,"Models of E1, E2 and CP of Venezuelan Equine Encephalitis Virus TC-83 strain restrained by a near atomic resolution cryo-EM map",4.8,ssRNA,4,240,165,342,339,11160,10573416
+3j0f,Togaviridae,Alphavirus,Sindbis virion,7,ssRNA,4,240,173,342,342,0,0
+3j2w,Togaviridae,Alphavirus,ELECTRON CRYO-MICROSCOPY OF CHIKUNGUNYA VIRUS,5,ssRNA,4,240,167,341,337,10620,10484976
+3muw,Togaviridae,Alphavirus,Pseudo-atomic structure of the E2-E1 protein shell in Sindbis virus,9,ssRNA,4,240,260,334,334,3720,5796078
+1c8n,Tombusviridae,Necrovirus,TOBACCO NECROSIS VIRUS,2.25,"ssRNA positive-strand viruses, no DNA stage",3,180,108,159,155,-180,668658
+1opo,Tombusviridae,Carmovirus,THE STRUCTURE OF CARNATION MOTTLE VIRUS,3.2,"ssRNA positive-strand viruses, no DNA stage",3,180,117,177,176,-120,1174182
+1tnv,Tombusviridae,Necrovirus,CRYSTAL STRUCTURAL ANALYSIS OF TOBACCO NECROSIS VIRUS (TNV) AT 5 ANGSTROMS RESOLUTION,5,"ssRNA positive-strand viruses, no DNA stage",3,180,109,157,151,0,0
+2tbv,Tombusviridae,Tombusvirus,STRUCTURE OF TOMATO BUSHY STUNT VIRUS. V. COAT PROTEIN SEQUENCE DETERMINATION AND ITS STRUCTURAL IMPLICATIONS,2.9,"ssRNA positive-strand viruses, no DNA stage",3,180,109,176,173,240,1273134
+2zah,Tombusviridae,Carmovirus,X-ray structure of Melon necrotic spot virus,2.81,ssRNA,3,180,106,173,172,660,1263588
+3zx8,Tombusviridae,Carmovirus,Cryo-EM reconstruction of native and expanded Turnip Crinkle virus,11.5,ssRNA,3,180,111,175,172,540,1423788
+3zx9,Tombusviridae,Carmovirus,Cryo-EM reconstruction of native and expanded Turnip Crinkle virus,17,ssRNA,3,180,124,188,187,600,1821948
+1m1c,Totiviridae,Totivirus,Structure of the L-A virus,3.5,dsRNA viruses,1,60,159,220,216,720,1847532
+1e57,Tymoviridae,Tymovirus,PHYSALIS MOTTLE VIRUS: EMPTY CAPSID,3.2,"ssRNA positive-strand viruses, no DNA stage",3,180,105,158,156,1080,868986
+1auy,Tymoviridae,Tymovirus,TURNIP YELLOW MOSAIC VIRUS,3.2,"ssRNA positive-strand viruses, no DNA stage",3,180,107,158,152,240,710748
+1ddl,Tymoviridae,Tymovirus,DESMODIUM YELLOW MOTTLE TYMOVIRUS,2.7,"ssRNA positive-strand viruses, no DNA stage",3,180,106,159,152,960,781236
+1qjz,Tymoviridae,Tymovirus,THREE DIMENSIONAL STRUCTURE OF PHYSALIS MOTTLE VIRUS: IMPLICATIONS FOR THE VIRAL ASSEMBLY,3.8,"ssRNA positive-strand viruses, no DNA stage",3,180,97,157,150,780,899148
+1w39,Tymoviridae,Tymovirus,CRYSTAL STRUCTURE OF AN ARTIFICIAL TOP COMPONENT OF TURNIP YELLOW MOSAIC VIRUS,3.75,"ssRNA positive-strand viruses, no DNA stage",3,180,106,158,152,240,727374
+2fz1,Tymoviridae,Tymovirus,Structure of Empty Head Turnip Yellow Mosaic Virus (ATC) at 100 K,2.9,ssRNA,3,180,106,158,152,120,700050
+2fz2,Tymoviridae,Tymovirus,Structure of Turnip Yellow Mosaic Virus at 100 K,2.9,ssRNA,3,180,104,158,152,-180,97590
+2xpj,Tymoviridae,Tymovirus,CRYSTAL STRUCTURE OF PHYSALIS MOTTLE VIRUS WITH INTACT ORDERED RNA,3.4,ssRNA,3,180,105,157,155,1140,752004
+3j6r,Papillomaviridae,Alphapapillomavirus,ELECTRON CRYO-MICROSCOPY OF HUMAN PAPILLOMAVIRUS TYPE 16 CAP,9.1,dsDNA,7d,360,224,301,298,3900,5465004
